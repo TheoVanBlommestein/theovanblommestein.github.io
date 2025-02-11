@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Welcome to My Site on Theo van Blommestein</title>
+    <link>https://theovanblommestein.github.io/</link>
+    <description>Recent content in Welcome to My Site on Theo van Blommestein</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 12 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://theovanblommestein.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Blog Post</title>
+      <link>https://theovanblommestein.github.io/posts/my-first-post/</link>
+      <pubDate>Mon, 12 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://theovanblommestein.github.io/posts/my-first-post/</guid>
+      <description>&lt;p&gt;Hello! This is my first post on my Hugo site using the Typo theme.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
